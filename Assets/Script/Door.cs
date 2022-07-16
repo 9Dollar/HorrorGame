@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Vector4 = System.Numerics.Vector4;
 
 public class Door : MonoBehaviour, IInteractable
 {
